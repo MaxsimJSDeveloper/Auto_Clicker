@@ -41,3 +41,5 @@
 *.dwo
 /.vs
 /Auto_Clicker/x64/Debug
+
+*.user
